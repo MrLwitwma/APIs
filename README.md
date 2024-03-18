@@ -4,8 +4,6 @@ This Directory contains the scripts for using Lina in static sites or sites that
 
 To use this model:
   Paste this code in your webpage:
-    ```
-    <script src="https://api.mrlwitwma.in/static/{model}/script.js"></script>  <!--Make Sure to replace {model} with model you are using.-->
     <div class="chat-container">
         <div id="chat"></div>
         <noscript>This Side Need to use JavaScript to work!</noscript>
@@ -14,7 +12,6 @@ To use this model:
         <textarea placeholder="Message Lina..." type="text" id="user-input" autofocus></textarea>
         <input id="send" type="submit" value="Send">
     </div>
-    ```
 
 If you still have problems 
   ⭐Check for my videos in my YouTube channel: https://youtube.com/@mrlwitwma
