@@ -4,4 +4,4 @@ This Directory contains the scripts for using Lina in static sites or sites that
 
 To use this model:
   Paste this code in your website:
-    <script src="https://api.mrlwitwma.in/lina"> </script>
+    <script src="https://api.mrlwitwma.in/{model}/script.js"> </script>
