@@ -1,5 +1,5 @@
 # APIs
-Free API key Scripts
+Get Free API key Scripts for using Lina in a Static Websites. Super easy to use just link the js and you are ready to use Lina API key for Free.
 This Directory contains the scripts for using Lina in static sites or sites that don't want to load Lina model again.
 
 To use this model:
